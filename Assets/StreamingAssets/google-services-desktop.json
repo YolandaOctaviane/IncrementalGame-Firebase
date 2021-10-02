@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42575057759",
+    "project_id": "si-agate-incremental-gam-605fc",
+    "storage_bucket": "si-agate-incremental-gam-605fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42575057759:android:4440c75fa4adc0ef499cea",
+        "android_client_info": {
+          "package_name": "com.siagate.incrementalgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42575057759-qeqmqg6nbs49nsaafvr244ubvcdt4aso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpDRcC-fF32E6Mk53X-Yw4wydqlVTlSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42575057759-qeqmqg6nbs49nsaafvr244ubvcdt4aso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
